@@ -1,0 +1,1 @@
+web: gunicorn english_to_spanish_api:app
