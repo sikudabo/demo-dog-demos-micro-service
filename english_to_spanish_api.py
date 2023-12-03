@@ -1,6 +1,11 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from model_tokenizer import model, tokenizer
+from transformers import MarianMTModel, MarianTokenizer
+
+# Load MarianMT model and tokenizer for English to Spanish translation
+model_name = "Helsinki-NLP/opus-mt-en-es"
+model = MarianMTModel.from_pretrained(model_name)
+tokenizer = MarianTokenizer.from_pretrained(model_name)
 
 app = Flask(__name__)
 CORS(app)
