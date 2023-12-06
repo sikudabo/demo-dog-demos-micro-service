@@ -7,15 +7,14 @@ from bs4 import BeautifulSoup as BS
 from pathlib import Path 
 import json
 
-medical_exam_names = []
-
+condition_urls = []
 base_path = Path(__file__).parent 
-full_path = f'{base_path}/medical_exam_names.json'
+full_path = f'{base_path}/conditions_urls.json'
 path = Path(full_path)
 
 driver = webdriver.Chrome()
 
-driver.get('https://www.livehealthily.com/health-library#medical-exams')
+driver.get('https://www.livehealthily.com/health-library#conditions')
 
 element = WebDriverWait(driver, 10).until(
     EC.presence_of_element_located((By.TAG_NAME, 'p'))
@@ -26,12 +25,12 @@ react_html = driver.page_source
 soup = BS(react_html, 'html.parser')
 a_tags = soup.find_all('a')
 for tag in a_tags:
-    if tag.parent.name == 'li' and tag.text:
-        medical_exam_names.append(tag.text)
-
-contents = json.dumps(medical_exam_names)
+    if tag.parent.name == 'li':
+        condition_urls.append(tag.get('href'))
+contents = json.dumps(condition_urls)
 path.write_text(contents)
-print('Saved medical exams')
+print('Added all of the condition urls')
+
 time.sleep(10)
 
 # Close the browser
