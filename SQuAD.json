@@ -288,5 +288,35 @@
         "id": 29,
         "question": "treatment for aneurysm",
         "title": "aneurysm treatment"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Stopping smoking, eating healthily, exercising regularly, maintaining a healthy weight, and cutting down on alcohol are great ways to prevent an Aneurysm."]
+        },
+        "context": "Stopping smoking, eating healthily, exercising regularly, maintaining a healthy weight, and cutting down on alcohol are great ways to prevent an Aneurysm.",
+        "id": 30,
+        "question": "how to prevent an aneurysm",
+        "title": "aneurysm prevention"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Stopping smoking, eating healthily, exercising regularly, maintaining a healthy weight, and cutting down on alcohol are great ways to prevent an Aneurysm."]
+        },
+        "context": "Stopping smoking, eating healthily, exercising regularly, maintaining a healthy weight, and cutting down on alcohol are great ways to prevent an Aneurysm.",
+        "id": 31,
+        "question": "ways to avoid an aneurysm",
+        "title": "aneurysm prevention"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Stopping smoking, eating healthily, exercising regularly, maintaining a healthy weight, and cutting down on alcohol are great ways to prevent an Aneurysm."]
+        },
+        "context": "Stopping smoking, eating healthily, exercising regularly, maintaining a healthy weight, and cutting down on alcohol are great ways to prevent an Aneurysm.",
+        "id": 31,
+        "question": "how can i prevent an aneurysm",
+        "title": "aneurysm prevention"
     }
 ]
