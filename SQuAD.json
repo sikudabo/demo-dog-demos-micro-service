@@ -158,5 +158,135 @@
         "id": 16,
         "question": "what do i do if i think i have an aneurysm",
         "title": "should i see a doctor"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["An ultrasound scan of your tummy may be done to check if you have one."]
+        },
+        "context": "An ultrasound scan of your tummy may be done to check if you have one.",
+        "id": 17,
+        "question": "how can an aneurysm be diagnosed",
+        "title": "aneurysm diagnostics"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["An ultrasound scan of your tummy may be done to check if you have one."]
+        },
+        "context": "An ultrasound scan of your tummy may be done to check if you have one.",
+        "id": 18,
+        "question": "how to diagnose an aneurysm",
+        "title": "aneurysm diagnostics"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["An ultrasound scan of your tummy may be done to check if you have one."]
+        },
+        "context": "An ultrasound scan of your tummy may be done to check if you have one.",
+        "id": 19,
+        "question": "aneurysm diagnosis",
+        "title": "aneurysm diagnostics"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["An ultrasound scan of your tummy may be done to check if you have one."]
+        },
+        "context": "An ultrasound scan of your tummy may be done to check if you have one.",
+        "id": 20,
+        "question": "should i get an ultrasound to test for an aneurysm",
+        "title": "aneurysm diagnostics"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["An ultrasound scan of your tummy may be done to check if you have one."]
+        },
+        "context": "An ultrasound scan of your tummy may be done to check if you have one.",
+        "id": 21,
+        "question": "can an ultrasound find an aneurysm",
+        "title": "aneurysm diagnostics"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Men aged 65 and over, people who smoke, people with high blood pressure, and people with a family history of aneurysms."]
+        },
+        "context": "Men aged 65 and over, people who smoke, people with high blood pressure, and people with a family history of aneurysms.",
+        "id": 22,
+        "question": "who is at risk of developing an aneurysm",
+        "title": "aneurysm risk factors"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Men aged 65 and over, people who smoke, people with high blood pressure, and people with a family history of aneurysms."]
+        },
+        "context": "Men aged 65 and over, people who smoke, people with high blood pressure, and people with a family history of aneurysms.",
+        "id": 23,
+        "question": "aneurysm risk factors",
+        "title": "aneurysm risk factors"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Men aged 65 and over, people who smoke, people with high blood pressure, and people with a family history of aneurysms."]
+        },
+        "context": "Men aged 65 and over, people who smoke, people with high blood pressure, and people with a family history of aneurysms.",
+        "id": 24,
+        "question": "whos likely to develop an aneurysm",
+        "title": "aneurysm risk factors"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Men aged 65 and over, people who smoke, people with high blood pressure, and people with a family history of aneurysms."]
+        },
+        "context": "Men aged 65 and over, people who smoke, people with high blood pressure, and people with a family history of aneurysms.",
+        "id": 25,
+        "question": "how does someone develop an aneurysm",
+        "title": "aneurysm risk factors"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["For small aneurysms checkups are required to make sure it is not increasing in size. Large aneurysms that are 5.5cm or larger require surgery to either remove them or stop them from getting bigger."]
+        },
+        "context": "For small aneurysms checkups are required to make sure it is not increasing in size. Large aneurysms that are 5.5cm or larger require surgery to either remove them or stop them from getting bigger.",
+        "id": 26,
+        "question": "how to treat an aneurysm",
+        "title": "aneurysm treatment"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["For small aneurysms checkups are required to make sure it is not increasing in size. Large aneurysms that are 5.5cm or larger require surgery to either remove them or stop them from getting bigger."]
+        },
+        "context": "For small aneurysms checkups are required to make sure it is not increasing in size. Large aneurysms that are 5.5cm or larger require surgery to either remove them or stop them from getting bigger.",
+        "id": 27,
+        "question": "how are aneurysms treated",
+        "title": "aneurysm treatment"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["For small aneurysms checkups are required to make sure it is not increasing in size. Large aneurysms that are 5.5cm or larger require surgery to either remove them or stop them from getting bigger."]
+        },
+        "context": "For small aneurysms checkups are required to make sure it is not increasing in size. Large aneurysms that are 5.5cm or larger require surgery to either remove them or stop them from getting bigger.",
+        "id": 28,
+        "question": "what is the treatment for an aneurysm",
+        "title": "aneurysm treatment"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["For small aneurysms checkups are required to make sure it is not increasing in size. Large aneurysms that are 5.5cm or larger require surgery to either remove them or stop them from getting bigger."]
+        },
+        "context": "For small aneurysms checkups are required to make sure it is not increasing in size. Large aneurysms that are 5.5cm or larger require surgery to either remove them or stop them from getting bigger.",
+        "id": 29,
+        "question": "treatment for aneurysm",
+        "title": "aneurysm treatment"
     }
 ]
