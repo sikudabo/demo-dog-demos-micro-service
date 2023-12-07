@@ -34,8 +34,15 @@ for url in condition_urls:
     p_tags = soup.find_all('p')
     current_text = ''
     for tag in p_tags:
-        current_text += f'\n{tag.text}'
+        tag_text = tag.text.replace('*', '')
+        tag_text = tag_text.replace('\\', '')
+        tag_text = tag_text.replace('<', '')
+        tag_text = tag_text.replace('>', '')
+        tag_text = tag_text.replace(':', '')
+        tag_text = tag_text.replace('/', '')
+        current_text += tag_text
     current_question_answer = {
+        "context": disease_names[idx],
         "question": f'What is {disease_names[idx]}?',
         "answer": current_text
     }
