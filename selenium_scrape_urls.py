@@ -40,11 +40,11 @@ for url in condition_urls:
         tag_text = tag_text.replace('>', '')
         tag_text = tag_text.replace(':', '')
         tag_text = tag_text.replace('/', '')
-        current_text += tag_text
+        current_text += ' ' + tag_text
     current_question_answer = {
         "context": disease_names[idx],
         "question": f'What is {disease_names[idx]}?',
-        "answer": current_text
+        "answer": current_text.split('Original content Copyright')[0]
     }
     question_answers.append(current_question_answer)
     if idx > len(disease_names):
