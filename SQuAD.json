@@ -1,0 +1,162 @@
+[
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["an abdominal aortic aneurysm is a bulge or swelling in the aorta, the main blood vessel that runs from the heart down to the chest and tummy"]
+        },
+        "context": "an abdominal aortic aneurysm is a bulge or swelling in the aorta, the main blood vessel that runs from the heart down to the chest and tummy",
+        "id": 1,
+        "question": "what is an abdominal aortic aneurysm",
+        "title": "aortic aneurysm"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["an abdominal aortic aneurysm is a bulge or swelling in the aorta, the main blood vessel that runs from the heart down to the chest and tummy"]
+        },
+        "context": "an abdominal aortic aneurysm is a bulge or swelling in the aorta, the main blood vessel that runs from the heart down to the chest and tummy",
+        "id": 2,
+        "question": "how is abdominal aortic aneurysm defined",
+        "title": "aortic aneurysm"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["an abdominal aortic aneurysm is a bulge or swelling in the aorta, the main blood vessel that runs from the heart down to the chest and tummy"]
+        },
+        "context": "an abdominal aortic aneurysm is a bulge or swelling in the aorta, the main blood vessel that runs from the heart down to the chest and tummy",
+        "id": 3,
+        "question": "what is an aneurysm",
+        "title": "aortic aneurysm"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["an abdominal aortic aneurysm is a bulge or swelling in the aorta, the main blood vessel that runs from the heart down to the chest and tummy"]
+        },
+        "context": "an abdominal aortic aneurysm is a bulge or swelling in the aorta, the main blood vessel that runs from the heart down to the chest and tummy",
+        "id": 4,
+        "question": "whats an aneurysm",
+        "title": "aortic aneurysm what is"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["A pulsing sensation in the tummy like a heart beat, tummy pain that does not go away, or lower back pain that does not go away."]
+        },
+        "context": "A pulsing sensation in the tummy like a heart beat, tummy pain that does not go away, or lower back pain that does not go away.",
+        "id": 5,
+        "question": "what are the symptoms of an aneurysm",
+        "title": "aneurysm symptoms"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["A pulsing sensation in the tummy like a heart beat, tummy pain that does not go away, or lower back pain that does not go away."]
+        },
+        "context": "A pulsing sensation in the tummy like a heart beat, tummy pain that does not go away, or lower back pain that does not go away.",
+        "id": 6,
+        "question": "symptoms of an aneurysm",
+        "title": "aneurysm symptoms"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["A pulsing sensation in the tummy like a heart beat, tummy pain that does not go away, or lower back pain that does not go away."]
+        },
+        "context": "A pulsing sensation in the tummy like a heart beat, tummy pain that does not go away, or lower back pain that does not go away.",
+        "id": 7,
+        "question": "how do i know if i have an aneurysm",
+        "title": "aneurysm symptoms"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["A pulsing sensation in the tummy like a heart beat, tummy pain that does not go away, or lower back pain that does not go away."]
+        },
+        "context": "A pulsing sensation in the tummy like a heart beat, tummy pain that does not go away, or lower back pain that does not go away.",
+        "id": 8,
+        "question": "my stomach is pulsating like a heartbeat",
+        "title": "aneurysm symptoms"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Sudden, severe pain in the tummy or lower back, dizziness, sweaty, pale and clammy skin, a fast heartbeat, shortness of breath, and fainting or passing out."]
+        },
+        "context": "Sudden, severe pain in the tummy or lower back, dizziness, sweaty, pale and clammy skin, a fast heartbeat, shortness of breath, and fainting or passing out.",
+        "id": 9,
+        "question": "what happens when an aneurysm bursts",
+        "title": "aneurysm symptoms"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Sudden, severe pain in the tummy or lower back, dizziness, sweaty, pale and clammy skin, a fast heartbeat, shortness of breath, and fainting or passing out."]
+        },
+        "context": "Sudden, severe pain in the tummy or lower back, dizziness, sweaty, pale and clammy skin, a fast heartbeat, shortness of breath, and fainting or passing out.",
+        "id": 10,
+        "question": "what will happen if an aneurysm bursts",
+        "title": "aneurysm symptoms"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Sudden, severe pain in the tummy or lower back, dizziness, sweaty, pale and clammy skin, a fast heartbeat, shortness of breath, and fainting or passing out."]
+        },
+        "context": "Sudden, severe pain in the tummy or lower back, dizziness, sweaty, pale and clammy skin, a fast heartbeat, shortness of breath, and fainting or passing out.",
+        "id": 11,
+        "question": "how do i know if my aneurysm burst",
+        "title": "aneurysm symptoms"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Sudden, severe pain in the tummy or lower back, dizziness, sweaty, pale and clammy skin, a fast heartbeat, shortness of breath, and fainting or passing out."]
+        },
+        "context": "Sudden, severe pain in the tummy or lower back, dizziness, sweaty, pale and clammy skin, a fast heartbeat, shortness of breath, and fainting or passing out.",
+        "id": 12,
+        "question": "what if an aneurysm bursts",
+        "title": "aneurysm symptoms"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Make an appointment to see your doctor as soon as possible if you have symptoms, especially if you're at a higher risk of an Aneurysm."]
+        },
+        "context": "Make an appointment to see your doctor as soon as possible if you have symptoms, especially if you're at a higher risk of an Aneurysm.",
+        "id": 13,
+        "question": "should i got to the doctor if i have an aneurysm",
+        "title": "should i see a doctor"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Make an appointment to see your doctor as soon as possible if you have symptoms, especially if you're at a higher risk of an Aneurysm."]
+        },
+        "context": "Make an appointment to see your doctor as soon as possible if you have symptoms, especially if you're at a higher risk of an Aneurysm.",
+        "id": 14,
+        "question": "should i got to the hospital if i have signs of an aneurysm",
+        "title": "should i see a doctor"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Make an appointment to see your doctor as soon as possible if you have symptoms, especially if you're at a higher risk of an Aneurysm."]
+        },
+        "context": "Make an appointment to see your doctor as soon as possible if you have symptoms, especially if you're at a higher risk of an Aneurysm.",
+        "id": 15,
+        "question": "should i get medical help for an aneurysm",
+        "title": "should i see a doctor"
+    },
+    {
+        "answer": {
+            "answer_start": [0],
+            "text": ["Make an appointment to see your doctor as soon as possible if you have symptoms, especially if you're at a higher risk of an Aneurysm. Call for an ambulance immediately if you or someone else develops symptoms of a burst AAA."]
+        },
+        "context": "Make an appointment to see your doctor as soon as possible if you have symptoms, especially if you're at a higher risk of an Aneurysm. Call for an ambulance immediately if you or someone else develops symptoms of a burst AAA.",
+        "id": 16,
+        "question": "what do i do if i think i have an aneurysm",
+        "title": "should i see a doctor"
+    }
+]

@@ -11,5 +11,7 @@ disease_question_answers = json.loads(contents)
 # disease_qa_dataset = Dataset.from_list(disease_question_answers)
 disease_qa_dataset = load_dataset('json', data_files={'train': full_path, 'validation': full_path})
 
+
+
 # disease_qa_dataset.save_to_disk(save_to_disk_path, storage_options={"format": "json"})
 #print('Saved dataset to disk')

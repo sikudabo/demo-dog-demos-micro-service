@@ -2,31 +2,16 @@
     {
         "question": "What is an aortic aneurysm",
         "answer": "An aortic aneurysm is a balloon-like bulge in the aorta, the large artery that carries blood from the heart through the chest and torso. The aneurysm can burst completely, causing bleeding inside the body. This is called a rupture. Dissections and ruptures are the cause of most deaths from aortic aneurysms.",
-        "label": 1
+        "context": "Aortic Aneurysm"
     },
     {
-        "question": "how many deaths per year come from aortic aneurysms",
-        "answer": "Aortic aneurysms or aortic dissections were the cause of 9,904 deaths in 2019.",
-        "label": 1
-    },
+        "question": "What is asthma",
+        "answer": "Asthma is a disease that impacts the lungs.",
+        "context": "Asthma"
+    },  
     {
-        "question": "how many die from aortic aneurysm",
-        "answer":"An aortic aneurysm is a balloon-like bulge in the aorta, the large artery that carries blood from the heart through the chest and torso. The aneurysm can burst completely, causing bleeding inside the body. This is called a rupture. Dissections and ruptures are the cause of most deaths from aortic aneurysms.",
-        "label": 1
-    },
-    {
-        "question": "can smoking cause an aneurysm",
-        "answer": "Yes, smoking is the leading risk factor for an aortic aneurysm.",
-        "label": 1
-    },
-    {
-        "question": "Is smoking a risk factor for an aortic aneurysm",
-        "answer": "Yes, smoking is the leading risk factor for an aortic aneurysm.",
-        "label": 1
-    },
-    {
-        "question": "How many cases of aneurism are caused by smoking",
-        "answer": "75%",
-        "label": 1
-    }   
+        "question": "what is depression?",
+        "answer": "Depression is a mood disorder impacting the brain",
+        "context": "Depression"
+    }
 ]
