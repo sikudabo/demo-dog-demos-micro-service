@@ -1,6 +1,6 @@
 [
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["an abdominal aortic aneurysm is a bulge or swelling in the aorta, the main blood vessel that runs from the heart down to the chest and tummy"]
         },
@@ -10,7 +10,7 @@
         "title": "aortic aneurysm"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["an abdominal aortic aneurysm is a bulge or swelling in the aorta, the main blood vessel that runs from the heart down to the chest and tummy"]
         },
@@ -20,7 +20,7 @@
         "title": "aortic aneurysm"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["an abdominal aortic aneurysm is a bulge or swelling in the aorta, the main blood vessel that runs from the heart down to the chest and tummy"]
         },
@@ -30,7 +30,7 @@
         "title": "aortic aneurysm"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["an abdominal aortic aneurysm is a bulge or swelling in the aorta, the main blood vessel that runs from the heart down to the chest and tummy"]
         },
@@ -40,7 +40,7 @@
         "title": "aortic aneurysm what is"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["A pulsing sensation in the tummy like a heart beat, tummy pain that does not go away, or lower back pain that does not go away."]
         },
@@ -50,7 +50,7 @@
         "title": "aneurysm symptoms"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["A pulsing sensation in the tummy like a heart beat, tummy pain that does not go away, or lower back pain that does not go away."]
         },
@@ -60,7 +60,7 @@
         "title": "aneurysm symptoms"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["A pulsing sensation in the tummy like a heart beat, tummy pain that does not go away, or lower back pain that does not go away."]
         },
@@ -70,7 +70,7 @@
         "title": "aneurysm symptoms"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["A pulsing sensation in the tummy like a heart beat, tummy pain that does not go away, or lower back pain that does not go away."]
         },
@@ -80,7 +80,7 @@
         "title": "aneurysm symptoms"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Sudden, severe pain in the tummy or lower back, dizziness, sweaty, pale and clammy skin, a fast heartbeat, shortness of breath, and fainting or passing out."]
         },
@@ -90,7 +90,7 @@
         "title": "aneurysm symptoms"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Sudden, severe pain in the tummy or lower back, dizziness, sweaty, pale and clammy skin, a fast heartbeat, shortness of breath, and fainting or passing out."]
         },
@@ -100,7 +100,7 @@
         "title": "aneurysm symptoms"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Sudden, severe pain in the tummy or lower back, dizziness, sweaty, pale and clammy skin, a fast heartbeat, shortness of breath, and fainting or passing out."]
         },
@@ -110,7 +110,7 @@
         "title": "aneurysm symptoms"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Sudden, severe pain in the tummy or lower back, dizziness, sweaty, pale and clammy skin, a fast heartbeat, shortness of breath, and fainting or passing out."]
         },
@@ -120,7 +120,7 @@
         "title": "aneurysm symptoms"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Make an appointment to see your doctor as soon as possible if you have symptoms, especially if you're at a higher risk of an Aneurysm."]
         },
@@ -130,7 +130,7 @@
         "title": "should i see a doctor"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Make an appointment to see your doctor as soon as possible if you have symptoms, especially if you're at a higher risk of an Aneurysm."]
         },
@@ -140,7 +140,7 @@
         "title": "should i see a doctor"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Make an appointment to see your doctor as soon as possible if you have symptoms, especially if you're at a higher risk of an Aneurysm."]
         },
@@ -150,7 +150,7 @@
         "title": "should i see a doctor"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Make an appointment to see your doctor as soon as possible if you have symptoms, especially if you're at a higher risk of an Aneurysm. Call for an ambulance immediately if you or someone else develops symptoms of a burst AAA."]
         },
@@ -160,7 +160,7 @@
         "title": "should i see a doctor"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["An ultrasound scan of your tummy may be done to check if you have one."]
         },
@@ -170,7 +170,7 @@
         "title": "aneurysm diagnostics"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["An ultrasound scan of your tummy may be done to check if you have one."]
         },
@@ -180,7 +180,7 @@
         "title": "aneurysm diagnostics"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["An ultrasound scan of your tummy may be done to check if you have one."]
         },
@@ -190,7 +190,7 @@
         "title": "aneurysm diagnostics"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["An ultrasound scan of your tummy may be done to check if you have one."]
         },
@@ -200,7 +200,7 @@
         "title": "aneurysm diagnostics"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["An ultrasound scan of your tummy may be done to check if you have one."]
         },
@@ -210,7 +210,7 @@
         "title": "aneurysm diagnostics"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Men aged 65 and over, people who smoke, people with high blood pressure, and people with a family history of aneurysms."]
         },
@@ -220,7 +220,7 @@
         "title": "aneurysm risk factors"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Men aged 65 and over, people who smoke, people with high blood pressure, and people with a family history of aneurysms."]
         },
@@ -230,7 +230,7 @@
         "title": "aneurysm risk factors"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Men aged 65 and over, people who smoke, people with high blood pressure, and people with a family history of aneurysms."]
         },
@@ -240,7 +240,7 @@
         "title": "aneurysm risk factors"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Men aged 65 and over, people who smoke, people with high blood pressure, and people with a family history of aneurysms."]
         },
@@ -250,7 +250,7 @@
         "title": "aneurysm risk factors"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["For small aneurysms checkups are required to make sure it is not increasing in size. Large aneurysms that are 5.5cm or larger require surgery to either remove them or stop them from getting bigger."]
         },
@@ -260,7 +260,7 @@
         "title": "aneurysm treatment"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["For small aneurysms checkups are required to make sure it is not increasing in size. Large aneurysms that are 5.5cm or larger require surgery to either remove them or stop them from getting bigger."]
         },
@@ -270,7 +270,7 @@
         "title": "aneurysm treatment"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["For small aneurysms checkups are required to make sure it is not increasing in size. Large aneurysms that are 5.5cm or larger require surgery to either remove them or stop them from getting bigger."]
         },
@@ -280,7 +280,7 @@
         "title": "aneurysm treatment"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["For small aneurysms checkups are required to make sure it is not increasing in size. Large aneurysms that are 5.5cm or larger require surgery to either remove them or stop them from getting bigger."]
         },
@@ -290,7 +290,7 @@
         "title": "aneurysm treatment"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Stopping smoking, eating healthily, exercising regularly, maintaining a healthy weight, and cutting down on alcohol are great ways to prevent an Aneurysm."]
         },
@@ -300,7 +300,7 @@
         "title": "aneurysm prevention"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Stopping smoking, eating healthily, exercising regularly, maintaining a healthy weight, and cutting down on alcohol are great ways to prevent an Aneurysm."]
         },
@@ -310,7 +310,7 @@
         "title": "aneurysm prevention"
     },
     {
-        "answer": {
+        "answers": {
             "answer_start": [0],
             "text": ["Stopping smoking, eating healthily, exercising regularly, maintaining a healthy weight, and cutting down on alcohol are great ways to prevent an Aneurysm."]
         },
