@@ -19,4 +19,3 @@ inputs = tokenizer(
     return_offsets_mapping=True
 )
 
-print(inputs)

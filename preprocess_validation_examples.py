@@ -1,4 +1,4 @@
-from squad_tokenizer import tokenizer
+from squad_tokenizer import tokenizer, raw_datasets
 
 max_length = 384
 stride = 128
@@ -31,3 +31,10 @@ def preprocess_validation_examples(examples):
 
     inputs["example_id"] = example_ids
     return inputs
+
+validation_dataset = raw_datasets["validation"].map(
+    preprocess_validation_examples,
+    batched=True,
+    remove_columns=raw_datasets["validation"].column_names,
+)
+print(len(raw_datasets["validation"]), len(validation_dataset))

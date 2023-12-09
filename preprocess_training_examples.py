@@ -64,5 +64,3 @@ train_dataset = raw_datasets['train'].map(
     batched=True,
     remove_columns=raw_datasets['train'].column_names
 )
-
-print(len(raw_datasets['train']), len(train_dataset))
